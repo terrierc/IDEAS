@@ -8,4 +8,4 @@ venv/
 dist/
 build/
 .DS_Store
-mason_stevens_tool/data/portfolio.json
+data/portfolio.json
